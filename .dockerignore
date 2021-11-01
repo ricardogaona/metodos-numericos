@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+docker-compose.yml
+Dockerfile
+.dockerignore
